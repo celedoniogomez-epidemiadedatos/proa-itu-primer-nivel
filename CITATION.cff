@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este material, cítalo con estos datos."
+title: "PROA-ITU: optimización de antimicrobianos en infección de vías urinarias no complicada en primer nivel de atención"
+type: software
+authors:
+  - family-names: "Gómez Muñoz"
+    given-names: "Celedonio"
+    affiliation: "CEQ Dr. Alberto Pisanty Ovadia (ISSSTE), Ciudad de México"
+version: "0.1"
+date-released: "2026-11-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/celedoniogomez-epidemiadedatos/proa-itu-primer-nivel"
+keywords:
+  - antimicrobial stewardship
+  - PROA
+  - urinary tract infection
+  - primary care
+  - hospital epidemiology
+  - Mexico

@@ -2,9 +2,9 @@
 
 Marco abierto para instalar y medir un Programa de Optimización de Antimicrobianos (PROA) enfocado en la **cistitis aguda no complicada** en unidades de primer nivel.
 
-**Autor:** Dr. Celedonio Gómez Muñoz · Epidemiología hospitalaria · [Epidemia de Datos](https://epidemiadedatos.substack.com/)
-**Licencia:** [CC BY 4.0](LICENSE.md) (puedes reutilizarlo citando la autoría)
-**Estado:** borrador de trabajo, versión 0.1
+- **Autor:** Dr. Celedonio Gómez Muñoz · Epidemiología hospitalaria · [Epidemia de Datos](https://epidemiadedatos.substack.com/)
+- **Licencia:** [CC BY 4.0](LICENSE.md) (puedes reutilizarlo citando la autoría)
+- **Estado:** borrador de trabajo, versión 0.1
 
 > **Aviso importante.** Este material es de apoyo para programas de calidad y no sustituye el juicio clínico ni las guías oficiales vigentes. Los esquemas deben validarse con el antibiograma local y con la normativa de cada institución antes de usarse. Los datos de este repositorio son **ficticios**: no contienen información de pacientes ni de ninguna institución.
 
